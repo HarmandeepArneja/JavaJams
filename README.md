@@ -5,6 +5,8 @@ This Java project generates the intro melody of "Runaway" by Kanye West using th
 
 This Java project replicates the intro melody of the popular song "Runaway" by Kanye West. It uses the **JM (Java Music)** library to create a MIDI sequence representing the intro of the song. The project includes code that generates the notes, organizes them into phrases and parts, and then plays the tune back using MIDI.
 
+Song Link: https://youtu.be/Bm5iA4Zupek?si=svyrg2i9BVxgT7EN
+
 ## Features
 
 - **MIDI Composition**: The intro melody of "Runaway" is generated using the `Note` and `Phrase` classes from the JM library.
